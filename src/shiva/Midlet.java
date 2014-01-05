@@ -33,8 +33,8 @@ public class Midlet extends MIDlet {
         setShivaTheme(res, "THEME_ChaoMung");
         setShivaForm(res, "GUI_ChaoMung");
 
-        setShivaTheme(res, "THEME_GiaCaPhe");
-        setShivaForm(res, "GUI_GiaCaPhe"); 
+        setShivaTheme(res, "THEME_ChucNang");
+        setShivaForm(res, "GUI_ChucNang"); 
         
         
     }
